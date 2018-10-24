@@ -4,4 +4,7 @@
     <string name="gotomap">GO TO MAP</string>
     <string name="settings">Settings</string>
     <string name="map">MAP</string>
+    <string name="locationNearMe">Locations Near Me</string>
+    <string name="backToHome">Back to Home</string>
+    <string name="homeText">HOME</string>
 </resources>

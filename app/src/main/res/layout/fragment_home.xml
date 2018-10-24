@@ -12,7 +12,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="HOME"
+        android:text="@string/homeText"
         android:textColor="@android:color/black"
         android:textSize="75sp"
         app:layout_constraintBottom_toBottomOf="parent"
